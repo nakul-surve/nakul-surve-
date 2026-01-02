@@ -22,3 +22,6 @@ I'm a DevOps learner building strong fundamentals in Linux, Git, Docker, and AWS
 
 ## Goal
 Build real skills and become job-ready as a DevOps Engineer.
+
+## Status
+Actively learning and improving every day.
